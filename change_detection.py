@@ -23,7 +23,7 @@ class ChangeDetection:
         self.frame_height = int(self.cap.get(4))
         self.histogram = None
         self.thresh_val = 0
-        self.init_thresh_split = 0.1
+        self.init_thresh_split = 0.8
         self.prop_weight = 1.5
         self.thresh_split = 0
         self.num_pixels = self.frame_height*self.frame_width
@@ -45,9 +45,9 @@ class ChangeDetection:
         while iterate_dark_vals < split_val:
             if i==255:
                 break
-            iterate_dark_vals += self.histogram[255-i]
+            iterate_dark_vals += self.histogram[i]
             i += 1
-        self.thresh_val = 255-i
+        self.thresh_val = i
 
     def display_hist(self):
         hist_height = max(self.histogram)//20 
