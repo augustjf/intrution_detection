@@ -2,12 +2,6 @@ import cv2
 import numpy as np
 import os
 
-# out = cv2.VideoWriter(
-#     save_name,
-#     cv2.VideoWriter_fourcc(*'mp4v'), 10, 
-#     (frame_width, frame_height)
-# )
-
 class ChangeDetection:
     def __init__(self):
         self.input_path = 'rilevamento-intrusioni-video.wm'
@@ -17,25 +11,23 @@ class ChangeDetection:
         self.current_frame = None
         self.diff_frame = None
         self.background = None
-        self.init_frame = None
         self.motion_mask = None
-        self.init_frame_ave = 0.0
+        self.histogram = None
+        self.background_ave = 0.0
         self.total_frames = 0
         self.frame_num = 0
         self.contours = []
         self.frame_width = int(self.cap.get(3))
         self.frame_height = int(self.cap.get(4))
-        self.histogram = None
         self.thresh_val = 0
         self.background_update = 0
-        self.frames_in_background_ave = 60
+        self.frames_in_background_ave = 80
         self.init_thresh_split = 0.8
         self.prop_weight = 1.5
         self.thresh_split = 0
         self.info_text = open("change_detection.txt", "a")
         self.num_pixels = self.frame_height*self.frame_width
         self.MoG_obj = cv2.createBackgroundSubtractorMOG2()
-
 
     def set_histogram(self):
         vec = [0]*256
@@ -67,7 +59,7 @@ class ChangeDetection:
 
     def find_thresh_split(self):
         ave = np.average(self.current_frame)
-        prop = ave/self.init_frame_ave
+        prop = ave/self.background_ave
         self.thresh_split = self.init_thresh_split*prop
 
     def get_background(self):
@@ -116,8 +108,7 @@ def main():
     print(cd.total_frames)
     
     cd.cap.set(cv2.CAP_PROP_POS_FRAMES, 1)
-    _, cd.init_frame = cd.cap.read()
-    cd.init_frame_ave = np.average(cd.init_frame)
+    cd.background_ave = np.average(cd.background)
     frame_count = 0
     while cd.cap.isOpened():
         ret, cd.current_frame = cd.cap.read()
@@ -142,15 +133,15 @@ def main():
             cv2.waitKey(0)  
 
             kernel1 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (2,2))
-            kernel5 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (10,10))
+            kernel2 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (10,10))
     
             opened_frame = cv2.morphologyEx(thresh_frame, cv2.MORPH_OPEN, kernel1)
             for i in range(2,4):
                 kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (i*2,i*2))
                 closed_frame = cv2.morphologyEx(opened_frame, cv2.MORPH_CLOSE, kernel)
                 opened_frame = cv2.morphologyEx(closed_frame, cv2.MORPH_OPEN, kernel)
+            closed_frame = cv2.morphologyEx(opened_frame, cv2.MORPH_CLOSE, kernel2)
 
-            closed_frame = cv2.morphologyEx(opened_frame, cv2.MORPH_CLOSE, kernel5)
             cv2.imshow('Thresh Frame', thresh_frame)
             cv2.waitKey(0)
             
@@ -158,13 +149,10 @@ def main():
             cd.contours = [cnt for cnt in cd.contours if cv2.contourArea(cnt) > 150]
             for i in range(len(cd.contours)):
                 cv2.drawContours(original_frame, cd.contours, i, (0,0,225), thickness=cv2.FILLED)
-                #cv2.drawContours(original_frame, hulls, i, (0,255,0), 3)
-
                 
             cv2.imshow('Res', original_frame)
             cv2.waitKey(0)
             cd.write_info()
-            #out.write(frame)
         else:
             break
     cd.cap.release()
