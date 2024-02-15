@@ -54,8 +54,8 @@ class ChangeDetection:
                     output[hist_height-1-j, i-1] = 255
                 else:
                     output[hist_height-1-j, i-1] = 127
-        cv2.imshow('Hist', output)
-        cv2.waitKey(0) 
+        # cv2.imshow('Hist', output)
+        # cv2.waitKey(0) 
 
     def find_thresh_split(self):
         ave = np.average(self.current_frame)
@@ -100,12 +100,12 @@ class ChangeDetection:
         self.info_text.close()
 
 def main():
-    os.remove("change_detection.txt")
+    if os.path.exists("change_detection.txt"):
+        os.remove("change_detection.txt")
     cd = ChangeDetection()
     cd.get_background()
     prop_id = int(cv2.CAP_PROP_FRAME_COUNT)
     cd.total_frames = int(cv2.VideoCapture.get(cd.cap, prop_id))
-    print(cd.total_frames)
     
     cd.cap.set(cv2.CAP_PROP_POS_FRAMES, 1)
     cd.background_ave = np.average(cd.background)
@@ -120,35 +120,38 @@ def main():
             if cd.frame_num % cd.frames_in_background_ave == 0 and cd.total_frames - cd.frame_num > cd.frames_in_background_ave:
                 cd.get_background()
                 print('New background')
-            print(cd.frame_num)
             cd.diff_frame = cv2.absdiff(cd.current_frame, cd.background)
-            cv2.imshow('Background Frame', cd.background)
-            cv2.waitKey(0) 
+            # cv2.imshow('Background Frame', cd.background)
             cd.set_histogram()
             cd.find_thresh_split()
             cd.find_threshold()           
             cd.display_hist()
             _, thresh_frame = cv2.threshold(cd.diff_frame, cd.thresh_val, 255, cv2.THRESH_BINARY)
-            cv2.imshow('Diff Frame', cd.diff_frame)
-            cv2.waitKey(0)  
+            # cv2.imshow('Diff Frame', cd.diff_frame)  
 
+            #Morphology
             kernel1 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (2,2))
             kernel2 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (10,10))
-    
             opened_frame = cv2.morphologyEx(thresh_frame, cv2.MORPH_OPEN, kernel1)
             for i in range(2,4):
                 kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (i*2,i*2))
                 closed_frame = cv2.morphologyEx(opened_frame, cv2.MORPH_CLOSE, kernel)
                 opened_frame = cv2.morphologyEx(closed_frame, cv2.MORPH_OPEN, kernel)
             closed_frame = cv2.morphologyEx(opened_frame, cv2.MORPH_CLOSE, kernel2)
-
-            cv2.imshow('Thresh Frame', thresh_frame)
-            cv2.waitKey(0)
+            # cv2.imshow('Thresh Frame', thresh_frame)
             
+            #Contouring
             cd.contours, _ = cv2.findContours(closed_frame, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
             cd.contours = [cnt for cnt in cd.contours if cv2.contourArea(cnt) > 150]
+            cd.contours = sorted(cd.contours, key=cv2.contourArea)
+            cd.contours.reverse()
+            colors = [(0,0,255), (0,255,0), (255,0,0), (0,255,255), (255,0,255), (255,255,0)]
             for i in range(len(cd.contours)):
-                cv2.drawContours(original_frame, cd.contours, i, (0,0,225), thickness=cv2.FILLED)
+                if i > len(colors)-1:
+                    color = (255,255,255)
+                else:
+                    color = colors[i]
+                cv2.drawContours(original_frame, cd.contours, i, color, thickness=5)
                 
             cv2.imshow('Res', original_frame)
             cv2.waitKey(0)

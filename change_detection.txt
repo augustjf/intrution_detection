@@ -24,8 +24,8 @@ Object number: 1 Area: 14187.0 Center of mass: (237.0,152.0) Classification: 'Pe
 
 Frame number: 7
 Num objects detected: 2
-Object number: 1 Area: 258.0 Center of mass: (185.0,202.0) Classification: 'Other'
-Object number: 2 Area: 13351.5 Center of mass: (244.0,146.0) Classification: 'Person'
+Object number: 1 Area: 13351.5 Center of mass: (244.0,146.0) Classification: 'Person'
+Object number: 2 Area: 258.0 Center of mass: (185.0,202.0) Classification: 'Other'
 
 Frame number: 8
 Num objects detected: 1
@@ -203,8 +203,8 @@ Object number: 2 Area: 799.0 Center of mass: (7.0,44.0) Classification: 'Person'
 
 Frame number: 51
 Num objects detected: 2
-Object number: 1 Area: 228.0 Center of mass: (42.0,231.0) Classification: 'Other'
-Object number: 2 Area: 5597.0 Center of mass: (14.0,139.0) Classification: 'Person'
+Object number: 1 Area: 5597.0 Center of mass: (14.0,139.0) Classification: 'Person'
+Object number: 2 Area: 228.0 Center of mass: (42.0,231.0) Classification: 'Other'
 
 Frame number: 52
 Num objects detected: 1
@@ -308,23 +308,23 @@ Object number: 1 Area: 14745.5 Center of mass: (228.0,154.0) Classification: 'Pe
 
 Frame number: 77
 Num objects detected: 2
-Object number: 1 Area: 222.0 Center of mass: (269.0,220.0) Classification: 'Other'
-Object number: 2 Area: 14516.0 Center of mass: (221.0,153.0) Classification: 'Person'
+Object number: 1 Area: 14516.0 Center of mass: (221.0,153.0) Classification: 'Person'
+Object number: 2 Area: 222.0 Center of mass: (269.0,220.0) Classification: 'Other'
 
 Frame number: 78
 Num objects detected: 2
-Object number: 1 Area: 164.5 Center of mass: (262.0,190.0) Classification: 'Other'
-Object number: 2 Area: 14388.5 Center of mass: (206.0,152.0) Classification: 'Person'
+Object number: 1 Area: 14388.5 Center of mass: (206.0,152.0) Classification: 'Person'
+Object number: 2 Area: 164.5 Center of mass: (262.0,190.0) Classification: 'Other'
 
 Frame number: 79
 Num objects detected: 2
-Object number: 1 Area: 397.5 Center of mass: (252.0,211.0) Classification: 'Other'
-Object number: 2 Area: 14473.0 Center of mass: (196.0,151.0) Classification: 'Person'
+Object number: 1 Area: 14473.0 Center of mass: (196.0,151.0) Classification: 'Person'
+Object number: 2 Area: 397.5 Center of mass: (252.0,211.0) Classification: 'Other'
 
 Frame number: 80
 Num objects detected: 2
-Object number: 1 Area: 246.5 Center of mass: (241.0,229.0) Classification: 'Other'
-Object number: 2 Area: 14784.5 Center of mass: (189.0,151.0) Classification: 'Person'
+Object number: 1 Area: 14784.5 Center of mass: (189.0,151.0) Classification: 'Person'
+Object number: 2 Area: 246.5 Center of mass: (241.0,229.0) Classification: 'Other'
 
 Frame number: 81
 Num objects detected: 1
@@ -492,29 +492,29 @@ Object number: 1 Area: 10959.0 Center of mass: (180.0,146.0) Classification: 'Pe
 
 Frame number: 122
 Num objects detected: 2
-Object number: 1 Area: 227.5 Center of mass: (201.0,235.0) Classification: 'Other'
-Object number: 2 Area: 11781.5 Center of mass: (187.0,144.0) Classification: 'Person'
+Object number: 1 Area: 11781.5 Center of mass: (187.0,144.0) Classification: 'Person'
+Object number: 2 Area: 227.5 Center of mass: (201.0,235.0) Classification: 'Other'
 
 Frame number: 123
 Num objects detected: 2
-Object number: 1 Area: 332.5 Center of mass: (204.0,233.0) Classification: 'Other'
-Object number: 2 Area: 11614.0 Center of mass: (193.0,143.0) Classification: 'Person'
+Object number: 1 Area: 11614.0 Center of mass: (193.0,143.0) Classification: 'Person'
+Object number: 2 Area: 332.5 Center of mass: (204.0,233.0) Classification: 'Other'
 
 Frame number: 124
 Num objects detected: 2
-Object number: 1 Area: 337.0 Center of mass: (207.0,233.0) Classification: 'Other'
-Object number: 2 Area: 9386.0 Center of mass: (202.0,138.0) Classification: 'Person'
+Object number: 1 Area: 9386.0 Center of mass: (202.0,138.0) Classification: 'Person'
+Object number: 2 Area: 337.0 Center of mass: (207.0,233.0) Classification: 'Other'
 
 Frame number: 125
 Num objects detected: 3
-Object number: 1 Area: 331.5 Center of mass: (211.0,233.0) Classification: 'Other'
+Object number: 1 Area: 9232.5 Center of mass: (214.0,137.0) Classification: 'Person'
 Object number: 2 Area: 509.0 Center of mass: (158.0,190.0) Classification: 'Person'
-Object number: 3 Area: 9232.5 Center of mass: (214.0,137.0) Classification: 'Person'
+Object number: 3 Area: 331.5 Center of mass: (211.0,233.0) Classification: 'Other'
 
 Frame number: 126
 Num objects detected: 2
-Object number: 1 Area: 248.5 Center of mass: (166.0,203.0) Classification: 'Other'
-Object number: 2 Area: 9679.0 Center of mass: (222.0,143.0) Classification: 'Person'
+Object number: 1 Area: 9679.0 Center of mass: (222.0,143.0) Classification: 'Person'
+Object number: 2 Area: 248.5 Center of mass: (166.0,203.0) Classification: 'Other'
 
 Frame number: 127
 Num objects detected: 1
@@ -566,13 +566,13 @@ Object number: 1 Area: 7408.5 Center of mass: (278.0,158.0) Classification: 'Per
 
 Frame number: 139
 Num objects detected: 2
-Object number: 1 Area: 194.5 Center of mass: (60.0,149.0) Classification: 'Other'
-Object number: 2 Area: 7259.0 Center of mass: (282.0,157.0) Classification: 'Person'
+Object number: 1 Area: 7259.0 Center of mass: (282.0,157.0) Classification: 'Person'
+Object number: 2 Area: 194.5 Center of mass: (60.0,149.0) Classification: 'Other'
 
 Frame number: 140
 Num objects detected: 2
-Object number: 1 Area: 222.5 Center of mass: (51.0,138.0) Classification: 'Other'
-Object number: 2 Area: 7437.5 Center of mass: (284.0,155.0) Classification: 'Person'
+Object number: 1 Area: 7437.5 Center of mass: (284.0,155.0) Classification: 'Person'
+Object number: 2 Area: 222.5 Center of mass: (51.0,138.0) Classification: 'Other'
 
 Frame number: 141
 Num objects detected: 1
@@ -640,13 +640,13 @@ Object number: 1 Area: 8736.0 Center of mass: (202.0,158.0) Classification: 'Per
 
 Frame number: 157
 Num objects detected: 2
-Object number: 1 Area: 408.0 Center of mass: (204.0,233.0) Classification: 'Other'
-Object number: 2 Area: 7870.5 Center of mass: (183.0,152.0) Classification: 'Person'
+Object number: 1 Area: 7870.5 Center of mass: (183.0,152.0) Classification: 'Person'
+Object number: 2 Area: 408.0 Center of mass: (204.0,233.0) Classification: 'Other'
 
 Frame number: 158
 Num objects detected: 2
-Object number: 1 Area: 211.5 Center of mass: (192.0,235.0) Classification: 'Other'
-Object number: 2 Area: 9937.5 Center of mass: (167.0,150.0) Classification: 'Person'
+Object number: 1 Area: 9937.5 Center of mass: (167.0,150.0) Classification: 'Person'
+Object number: 2 Area: 211.5 Center of mass: (192.0,235.0) Classification: 'Other'
 
 Frame number: 159
 Num objects detected: 1
@@ -747,14 +747,14 @@ Object number: 2 Area: 197.0 Center of mass: (4.0,90.0) Classification: 'Other'
 
 Frame number: 184
 Num objects detected: 2
-Object number: 1 Area: 209.0 Center of mass: (14.0,167.0) Classification: 'Other'
-Object number: 2 Area: 219.0 Center of mass: (4.0,92.0) Classification: 'Other'
+Object number: 1 Area: 219.0 Center of mass: (4.0,92.0) Classification: 'Other'
+Object number: 2 Area: 209.0 Center of mass: (14.0,167.0) Classification: 'Other'
 
 Frame number: 185
 Num objects detected: 3
-Object number: 1 Area: 196.0 Center of mass: (7.0,193.0) Classification: 'Other'
-Object number: 2 Area: 158.5 Center of mass: (16.0,167.0) Classification: 'Other'
-Object number: 3 Area: 241.5 Center of mass: (5.0,94.0) Classification: 'Other'
+Object number: 1 Area: 241.5 Center of mass: (5.0,94.0) Classification: 'Other'
+Object number: 2 Area: 196.0 Center of mass: (7.0,193.0) Classification: 'Other'
+Object number: 3 Area: 158.5 Center of mass: (16.0,167.0) Classification: 'Other'
 
 Frame number: 186
 Num objects detected: 2
@@ -841,13 +841,13 @@ Object number: 1 Area: 946.0 Center of mass: (23.0,146.0) Classification: 'Perso
 
 Frame number: 204
 Num objects detected: 2
-Object number: 1 Area: 176.0 Center of mass: (3.0,218.0) Classification: 'Other'
-Object number: 2 Area: 1336.5 Center of mass: (22.0,148.0) Classification: 'Person'
+Object number: 1 Area: 1336.5 Center of mass: (22.0,148.0) Classification: 'Person'
+Object number: 2 Area: 176.0 Center of mass: (3.0,218.0) Classification: 'Other'
 
 Frame number: 205
 Num objects detected: 3
-Object number: 1 Area: 873.0 Center of mass: (10.0,212.0) Classification: 'Person'
-Object number: 2 Area: 1552.5 Center of mass: (24.0,151.0) Classification: 'Person'
+Object number: 1 Area: 1552.5 Center of mass: (24.0,151.0) Classification: 'Person'
+Object number: 2 Area: 873.0 Center of mass: (10.0,212.0) Classification: 'Person'
 Object number: 3 Area: 217.0 Center of mass: (3.0,60.0) Classification: 'Other'
 
 Frame number: 206
@@ -862,14 +862,14 @@ Object number: 2 Area: 1632.5 Center of mass: (11.0,69.0) Classification: 'Perso
 
 Frame number: 208
 Num objects detected: 3
-Object number: 1 Area: 324.5 Center of mass: (12.0,208.0) Classification: 'Other'
+Object number: 1 Area: 4837.5 Center of mass: (21.0,111.0) Classification: 'Person'
 Object number: 2 Area: 1859.0 Center of mass: (60.0,208.0) Classification: 'Person'
-Object number: 3 Area: 4837.5 Center of mass: (21.0,111.0) Classification: 'Person'
+Object number: 3 Area: 324.5 Center of mass: (12.0,208.0) Classification: 'Other'
 
 Frame number: 209
 Num objects detected: 2
-Object number: 1 Area: 438.5 Center of mass: (16.0,208.0) Classification: 'Other'
-Object number: 2 Area: 7951.5 Center of mass: (38.0,132.0) Classification: 'Person'
+Object number: 1 Area: 7951.5 Center of mass: (38.0,132.0) Classification: 'Person'
+Object number: 2 Area: 438.5 Center of mass: (16.0,208.0) Classification: 'Other'
 
 Frame number: 210
 Num objects detected: 1
@@ -885,9 +885,9 @@ Object number: 1 Area: 14411.5 Center of mass: (62.0,148.0) Classification: 'Per
 
 Frame number: 213
 Num objects detected: 3
-Object number: 1 Area: 831.0 Center of mass: (78.0,224.0) Classification: 'Person'
-Object number: 2 Area: 189.5 Center of mass: (112.0,112.0) Classification: 'Other'
-Object number: 3 Area: 4195.0 Center of mass: (54.0,103.0) Classification: 'Person'
+Object number: 1 Area: 4195.0 Center of mass: (54.0,103.0) Classification: 'Person'
+Object number: 2 Area: 831.0 Center of mass: (78.0,224.0) Classification: 'Person'
+Object number: 3 Area: 189.5 Center of mass: (112.0,112.0) Classification: 'Other'
 
 Frame number: 214
 Num objects detected: 1
@@ -915,971 +915,112 @@ Object number: 1 Area: 12701.0 Center of mass: (117.0,154.0) Classification: 'Pe
 
 Frame number: 220
 Num objects detected: 2
-Object number: 1 Area: 432.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 11690.5 Center of mass: (127.0,161.0) Classification: 'Person'
+Object number: 1 Area: 11690.5 Center of mass: (127.0,161.0) Classification: 'Person'
+Object number: 2 Area: 432.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 221
 Num objects detected: 2
-Object number: 1 Area: 434.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 12483.0 Center of mass: (134.0,163.0) Classification: 'Person'
+Object number: 1 Area: 12483.0 Center of mass: (134.0,163.0) Classification: 'Person'
+Object number: 2 Area: 434.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 222
 Num objects detected: 2
-Object number: 1 Area: 439.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 12832.0 Center of mass: (139.0,166.0) Classification: 'Person'
+Object number: 1 Area: 12832.0 Center of mass: (139.0,166.0) Classification: 'Person'
+Object number: 2 Area: 439.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 223
 Num objects detected: 2
-Object number: 1 Area: 429.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 12885.5 Center of mass: (144.0,166.0) Classification: 'Person'
+Object number: 1 Area: 12885.5 Center of mass: (144.0,166.0) Classification: 'Person'
+Object number: 2 Area: 429.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 224
 Num objects detected: 2
-Object number: 1 Area: 428.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 13465.0 Center of mass: (149.0,167.0) Classification: 'Person'
+Object number: 1 Area: 13465.0 Center of mass: (149.0,167.0) Classification: 'Person'
+Object number: 2 Area: 428.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 225
 Num objects detected: 2
-Object number: 1 Area: 433.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 13732.5 Center of mass: (151.0,166.0) Classification: 'Person'
+Object number: 1 Area: 13732.5 Center of mass: (151.0,166.0) Classification: 'Person'
+Object number: 2 Area: 433.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 226
 Num objects detected: 2
-Object number: 1 Area: 433.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 13862.0 Center of mass: (152.0,166.0) Classification: 'Person'
+Object number: 1 Area: 13862.0 Center of mass: (152.0,166.0) Classification: 'Person'
+Object number: 2 Area: 433.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 227
 Num objects detected: 2
-Object number: 1 Area: 434.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 14101.5 Center of mass: (154.0,167.0) Classification: 'Person'
+Object number: 1 Area: 14101.5 Center of mass: (154.0,167.0) Classification: 'Person'
+Object number: 2 Area: 434.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 228
 Num objects detected: 2
-Object number: 1 Area: 438.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 14231.5 Center of mass: (155.0,166.0) Classification: 'Person'
+Object number: 1 Area: 14231.5 Center of mass: (155.0,166.0) Classification: 'Person'
+Object number: 2 Area: 438.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 229
 Num objects detected: 2
-Object number: 1 Area: 428.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 14268.5 Center of mass: (156.0,167.0) Classification: 'Person'
+Object number: 1 Area: 14268.5 Center of mass: (156.0,167.0) Classification: 'Person'
+Object number: 2 Area: 428.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 230
 Num objects detected: 2
-Object number: 1 Area: 429.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 14165.5 Center of mass: (157.0,167.0) Classification: 'Person'
+Object number: 1 Area: 14165.5 Center of mass: (157.0,167.0) Classification: 'Person'
+Object number: 2 Area: 429.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 231
 Num objects detected: 2
-Object number: 1 Area: 431.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 14278.5 Center of mass: (158.0,167.0) Classification: 'Person'
+Object number: 1 Area: 14278.5 Center of mass: (158.0,167.0) Classification: 'Person'
+Object number: 2 Area: 431.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 232
 Num objects detected: 2
-Object number: 1 Area: 433.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 14811.0 Center of mass: (159.0,167.0) Classification: 'Person'
+Object number: 1 Area: 14811.0 Center of mass: (159.0,167.0) Classification: 'Person'
+Object number: 2 Area: 433.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 233
 Num objects detected: 2
-Object number: 1 Area: 427.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 2 Area: 15497.5 Center of mass: (161.0,165.0) Classification: 'Person'
+Object number: 1 Area: 15497.5 Center of mass: (161.0,165.0) Classification: 'Person'
+Object number: 2 Area: 427.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 234
 Num objects detected: 3
-Object number: 1 Area: 1756.0 Center of mass: (105.0,201.0) Classification: 'Person'
-Object number: 2 Area: 420.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 3 Area: 12631.5 Center of mass: (179.0,153.0) Classification: 'Person'
+Object number: 1 Area: 12631.5 Center of mass: (179.0,153.0) Classification: 'Person'
+Object number: 2 Area: 1756.0 Center of mass: (105.0,201.0) Classification: 'Person'
+Object number: 3 Area: 420.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 235
 Num objects detected: 3
-Object number: 1 Area: 1302.5 Center of mass: (102.0,192.0) Classification: 'Person'
-Object number: 2 Area: 433.0 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 3 Area: 13304.0 Center of mass: (184.0,150.0) Classification: 'Person'
+Object number: 1 Area: 13304.0 Center of mass: (184.0,150.0) Classification: 'Person'
+Object number: 2 Area: 1302.5 Center of mass: (102.0,192.0) Classification: 'Person'
+Object number: 3 Area: 433.0 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 236
 Num objects detected: 3
-Object number: 1 Area: 1252.0 Center of mass: (103.0,193.0) Classification: 'Person'
-Object number: 2 Area: 444.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 3 Area: 13163.0 Center of mass: (190.0,148.0) Classification: 'Person'
+Object number: 1 Area: 13163.0 Center of mass: (190.0,148.0) Classification: 'Person'
+Object number: 2 Area: 1252.0 Center of mass: (103.0,193.0) Classification: 'Person'
+Object number: 3 Area: 444.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 237
 Num objects detected: 3
-Object number: 1 Area: 1018.5 Center of mass: (104.0,189.0) Classification: 'Person'
-Object number: 2 Area: 440.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 3 Area: 13161.5 Center of mass: (199.0,148.0) Classification: 'Person'
+Object number: 1 Area: 13161.5 Center of mass: (199.0,148.0) Classification: 'Person'
+Object number: 2 Area: 1018.5 Center of mass: (104.0,189.0) Classification: 'Person'
+Object number: 3 Area: 440.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 238
 Num objects detected: 3
-Object number: 1 Area: 1201.0 Center of mass: (103.0,188.0) Classification: 'Person'
-Object number: 2 Area: 435.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 3 Area: 13384.0 Center of mass: (210.0,152.0) Classification: 'Person'
+Object number: 1 Area: 13384.0 Center of mass: (210.0,152.0) Classification: 'Person'
+Object number: 2 Area: 1201.0 Center of mass: (103.0,188.0) Classification: 'Person'
+Object number: 3 Area: 435.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 239
 Num objects detected: 3
-Object number: 1 Area: 1181.0 Center of mass: (103.0,188.0) Classification: 'Person'
-Object number: 2 Area: 444.5 Center of mass: (36.0,157.0) Classification: 'Other'
-Object number: 3 Area: 12829.5 Center of mass: (221.0,152.0) Classification: 'Person'
+Object number: 1 Area: 12829.5 Center of mass: (221.0,152.0) Classification: 'Person'
+Object number: 2 Area: 1181.0 Center of mass: (103.0,188.0) Classification: 'Person'
+Object number: 3 Area: 444.5 Center of mass: (36.0,157.0) Classification: 'Other'
 
 Frame number: 240
 Num objects detected: 2
-Object number: 1 Area: 1015.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 13099.5 Center of mass: (230.0,154.0) Classification: 'Person'
-
-Frame number: 241
-Num objects detected: 3
-Object number: 1 Area: 176.5 Center of mass: (181.0,217.0) Classification: 'Other'
-Object number: 2 Area: 1065.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 12416.5 Center of mass: (239.0,151.0) Classification: 'Person'
-
-Frame number: 242
-Num objects detected: 3
-Object number: 1 Area: 260.5 Center of mass: (185.0,216.0) Classification: 'Other'
-Object number: 2 Area: 1043.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 11572.5 Center of mass: (246.0,148.0) Classification: 'Person'
-
-Frame number: 243
-Num objects detected: 4
-Object number: 1 Area: 185.0 Center of mass: (210.0,232.0) Classification: 'Other'
-Object number: 2 Area: 211.0 Center of mass: (185.0,217.0) Classification: 'Other'
-Object number: 3 Area: 1085.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 4 Area: 10958.5 Center of mass: (253.0,144.0) Classification: 'Person'
-
-Frame number: 244
-Num objects detected: 3
-Object number: 1 Area: 433.5 Center of mass: (200.0,224.0) Classification: 'Other'
-Object number: 2 Area: 1044.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 10794.0 Center of mass: (257.0,145.0) Classification: 'Person'
-
-Frame number: 245
-Num objects detected: 3
-Object number: 1 Area: 418.0 Center of mass: (205.0,225.0) Classification: 'Other'
-Object number: 2 Area: 1069.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 3 Area: 10449.5 Center of mass: (259.0,146.0) Classification: 'Person'
-
-Frame number: 246
-Num objects detected: 3
-Object number: 1 Area: 200.0 Center of mass: (212.0,231.0) Classification: 'Other'
-Object number: 2 Area: 1037.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 10455.0 Center of mass: (263.0,147.0) Classification: 'Person'
-
-Frame number: 247
-Num objects detected: 2
-Object number: 1 Area: 1067.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10938.0 Center of mass: (267.0,149.0) Classification: 'Person'
-
-Frame number: 248
-Num objects detected: 2
-Object number: 1 Area: 1071.0 Center of mass: (104.0,187.0) Classification: 'Person'
-Object number: 2 Area: 11354.0 Center of mass: (271.0,152.0) Classification: 'Person'
-
-Frame number: 249
-Num objects detected: 2
-Object number: 1 Area: 1079.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 11524.0 Center of mass: (273.0,152.0) Classification: 'Person'
-
-Frame number: 250
-Num objects detected: 2
-Object number: 1 Area: 1080.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 11362.5 Center of mass: (276.0,153.0) Classification: 'Person'
-
-Frame number: 251
-Num objects detected: 2
-Object number: 1 Area: 1014.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 11026.0 Center of mass: (278.0,154.0) Classification: 'Person'
-
-Frame number: 252
-Num objects detected: 2
-Object number: 1 Area: 1011.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10365.5 Center of mass: (281.0,155.0) Classification: 'Person'
-
-Frame number: 253
-Num objects detected: 2
-Object number: 1 Area: 1057.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 9320.5 Center of mass: (284.0,157.0) Classification: 'Person'
-
-Frame number: 254
-Num objects detected: 2
-Object number: 1 Area: 1086.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 8756.5 Center of mass: (287.0,156.0) Classification: 'Person'
-
-Frame number: 255
-Num objects detected: 2
-Object number: 1 Area: 1050.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 8119.5 Center of mass: (287.0,157.0) Classification: 'Person'
-
-Frame number: 256
-Num objects detected: 2
-Object number: 1 Area: 964.0 Center of mass: (105.0,185.0) Classification: 'Person'
-Object number: 2 Area: 7560.0 Center of mass: (287.0,163.0) Classification: 'Person'
-
-Frame number: 257
-Num objects detected: 3
-Object number: 1 Area: 1053.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 250.0 Center of mass: (15.0,159.0) Classification: 'Other'
-Object number: 3 Area: 7364.0 Center of mass: (287.0,168.0) Classification: 'Person'
-
-Frame number: 258
-Num objects detected: 3
-Object number: 1 Area: 1018.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 225.0 Center of mass: (16.0,159.0) Classification: 'Other'
-Object number: 3 Area: 7172.5 Center of mass: (286.0,173.0) Classification: 'Person'
-
-Frame number: 259
-Num objects detected: 3
-Object number: 1 Area: 953.0 Center of mass: (105.0,185.0) Classification: 'Person'
-Object number: 2 Area: 274.5 Center of mass: (14.0,159.0) Classification: 'Other'
-Object number: 3 Area: 6856.0 Center of mass: (284.0,181.0) Classification: 'Person'
-
-Frame number: 260
-Num objects detected: 3
-Object number: 1 Area: 1027.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 292.5 Center of mass: (15.0,158.0) Classification: 'Other'
-Object number: 3 Area: 6910.5 Center of mass: (284.0,184.0) Classification: 'Person'
-
-Frame number: 261
-Num objects detected: 3
-Object number: 1 Area: 1025.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 262.5 Center of mass: (15.0,159.0) Classification: 'Other'
-Object number: 3 Area: 6516.0 Center of mass: (283.0,188.0) Classification: 'Person'
-
-Frame number: 262
-Num objects detected: 2
-Object number: 1 Area: 996.5 Center of mass: (104.0,187.0) Classification: 'Person'
-Object number: 2 Area: 6234.5 Center of mass: (283.0,191.0) Classification: 'Person'
-
-Frame number: 263
-Num objects detected: 3
-Object number: 1 Area: 1003.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 325.0 Center of mass: (15.0,159.0) Classification: 'Other'
-Object number: 3 Area: 5929.5 Center of mass: (282.0,193.0) Classification: 'Person'
-
-Frame number: 264
-Num objects detected: 3
-Object number: 1 Area: 996.0 Center of mass: (104.0,185.0) Classification: 'Person'
-Object number: 2 Area: 260.5 Center of mass: (17.0,159.0) Classification: 'Other'
-Object number: 3 Area: 5761.0 Center of mass: (282.0,195.0) Classification: 'Person'
-
-Frame number: 265
-Num objects detected: 3
-Object number: 1 Area: 1025.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 374.0 Center of mass: (16.0,159.0) Classification: 'Other'
-Object number: 3 Area: 5516.5 Center of mass: (281.0,197.0) Classification: 'Person'
-
-Frame number: 266
-Num objects detected: 3
-Object number: 1 Area: 1050.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 375.5 Center of mass: (16.0,159.0) Classification: 'Other'
-Object number: 3 Area: 4976.0 Center of mass: (278.0,198.0) Classification: 'Person'
-
-Frame number: 267
-Num objects detected: 3
-Object number: 1 Area: 1029.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 275.5 Center of mass: (15.0,159.0) Classification: 'Other'
-Object number: 3 Area: 5115.5 Center of mass: (278.0,198.0) Classification: 'Person'
-
-Frame number: 268
-Num objects detected: 2
-Object number: 1 Area: 1041.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 5861.5 Center of mass: (280.0,195.0) Classification: 'Person'
-
-Frame number: 269
-Num objects detected: 3
-Object number: 1 Area: 1031.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 478.0 Center of mass: (15.0,159.0) Classification: 'Other'
-Object number: 3 Area: 6021.0 Center of mass: (279.0,191.0) Classification: 'Person'
-
-Frame number: 270
-Num objects detected: 3
-Object number: 1 Area: 1057.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 316.0 Center of mass: (14.0,159.0) Classification: 'Other'
-Object number: 3 Area: 6155.0 Center of mass: (282.0,184.0) Classification: 'Person'
-
-Frame number: 271
-Num objects detected: 2
-Object number: 1 Area: 1014.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 6801.0 Center of mass: (285.0,174.0) Classification: 'Person'
-
-Frame number: 272
-Num objects detected: 2
-Object number: 1 Area: 1053.5 Center of mass: (104.0,185.0) Classification: 'Person'
-Object number: 2 Area: 6470.5 Center of mass: (288.0,170.0) Classification: 'Person'
-
-Frame number: 273
-Num objects detected: 3
-Object number: 1 Area: 1000.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 193.0 Center of mass: (15.0,159.0) Classification: 'Other'
-Object number: 3 Area: 6828.0 Center of mass: (289.0,162.0) Classification: 'Person'
-
-Frame number: 274
-Num objects detected: 2
-Object number: 1 Area: 991.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 6819.0 Center of mass: (291.0,156.0) Classification: 'Person'
-
-Frame number: 275
-Num objects detected: 2
-Object number: 1 Area: 1059.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 7296.0 Center of mass: (291.0,152.0) Classification: 'Person'
-
-Frame number: 276
-Num objects detected: 2
-Object number: 1 Area: 1046.5 Center of mass: (104.0,187.0) Classification: 'Person'
-Object number: 2 Area: 7926.5 Center of mass: (291.0,149.0) Classification: 'Person'
-
-Frame number: 277
-Num objects detected: 2
-Object number: 1 Area: 1064.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 8483.0 Center of mass: (290.0,149.0) Classification: 'Person'
-
-Frame number: 278
-Num objects detected: 2
-Object number: 1 Area: 1012.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 9219.0 Center of mass: (288.0,152.0) Classification: 'Person'
-
-Frame number: 279
-Num objects detected: 2
-Object number: 1 Area: 1095.5 Center of mass: (104.0,187.0) Classification: 'Person'
-Object number: 2 Area: 10032.5 Center of mass: (287.0,153.0) Classification: 'Person'
-
-Frame number: 280
-Num objects detected: 2
-Object number: 1 Area: 1089.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 10464.0 Center of mass: (286.0,154.0) Classification: 'Person'
-
-Frame number: 281
-Num objects detected: 2
-Object number: 1 Area: 1022.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10339.5 Center of mass: (284.0,151.0) Classification: 'Person'
-
-Frame number: 282
-Num objects detected: 2
-Object number: 1 Area: 1051.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 10523.5 Center of mass: (282.0,152.0) Classification: 'Person'
-
-Frame number: 283
-Num objects detected: 2
-Object number: 1 Area: 1050.0 Center of mass: (104.0,185.0) Classification: 'Person'
-Object number: 2 Area: 10158.5 Center of mass: (277.0,152.0) Classification: 'Person'
-
-Frame number: 284
-Num objects detected: 2
-Object number: 1 Area: 1051.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10362.0 Center of mass: (273.0,152.0) Classification: 'Person'
-
-Frame number: 285
-Num objects detected: 3
-Object number: 1 Area: 211.5 Center of mass: (212.0,231.0) Classification: 'Other'
-Object number: 2 Area: 1065.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 10383.5 Center of mass: (269.0,151.0) Classification: 'Person'
-
-Frame number: 286
-Num objects detected: 3
-Object number: 1 Area: 166.0 Center of mass: (211.0,233.0) Classification: 'Other'
-Object number: 2 Area: 1055.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 3 Area: 10387.0 Center of mass: (267.0,150.0) Classification: 'Person'
-
-Frame number: 287
-Num objects detected: 4
-Object number: 1 Area: 191.5 Center of mass: (210.0,232.0) Classification: 'Other'
-Object number: 2 Area: 160.0 Center of mass: (188.0,217.0) Classification: 'Other'
-Object number: 3 Area: 1037.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 4 Area: 10081.5 Center of mass: (264.0,147.0) Classification: 'Person'
-
-Frame number: 288
-Num objects detected: 4
-Object number: 1 Area: 192.5 Center of mass: (210.0,232.0) Classification: 'Other'
-Object number: 2 Area: 203.0 Center of mass: (185.0,217.0) Classification: 'Other'
-Object number: 3 Area: 1089.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 4 Area: 10006.5 Center of mass: (262.0,145.0) Classification: 'Person'
-
-Frame number: 289
-Num objects detected: 4
-Object number: 1 Area: 191.0 Center of mass: (209.0,232.0) Classification: 'Other'
-Object number: 2 Area: 151.5 Center of mass: (186.0,216.0) Classification: 'Other'
-Object number: 3 Area: 1045.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 4 Area: 9893.5 Center of mass: (260.0,146.0) Classification: 'Person'
-
-Frame number: 290
-Num objects detected: 3
-Object number: 1 Area: 363.5 Center of mass: (194.0,221.0) Classification: 'Other'
-Object number: 2 Area: 988.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 3 Area: 10128.5 Center of mass: (258.0,149.0) Classification: 'Person'
-
-Frame number: 291
-Num objects detected: 3
-Object number: 1 Area: 178.0 Center of mass: (187.0,216.0) Classification: 'Other'
-Object number: 2 Area: 1067.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 9660.5 Center of mass: (255.0,149.0) Classification: 'Person'
-
-Frame number: 292
-Num objects detected: 2
-Object number: 1 Area: 1035.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 8818.5 Center of mass: (252.0,143.0) Classification: 'Person'
-
-Frame number: 293
-Num objects detected: 3
-Object number: 1 Area: 166.0 Center of mass: (180.0,217.0) Classification: 'Other'
-Object number: 2 Area: 1019.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 3 Area: 8842.0 Center of mass: (252.0,143.0) Classification: 'Person'
-
-Frame number: 294
-Num objects detected: 2
-Object number: 1 Area: 1036.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 8882.0 Center of mass: (253.0,144.0) Classification: 'Person'
-
-Frame number: 295
-Num objects detected: 2
-Object number: 1 Area: 1083.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 9488.5 Center of mass: (253.0,148.0) Classification: 'Person'
-
-Frame number: 296
-Num objects detected: 2
-Object number: 1 Area: 1037.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 9919.5 Center of mass: (255.0,149.0) Classification: 'Person'
-
-Frame number: 297
-Num objects detected: 2
-Object number: 1 Area: 1061.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 10903.0 Center of mass: (258.0,150.0) Classification: 'Person'
-
-Frame number: 298
-Num objects detected: 2
-Object number: 1 Area: 1045.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 11831.5 Center of mass: (262.0,151.0) Classification: 'Person'
-
-Frame number: 299
-Num objects detected: 2
-Object number: 1 Area: 1029.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 12182.0 Center of mass: (267.0,152.0) Classification: 'Person'
-
-Frame number: 300
-Num objects detected: 2
-Object number: 1 Area: 1044.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 12670.0 Center of mass: (274.0,153.0) Classification: 'Person'
-
-Frame number: 301
-Num objects detected: 2
-Object number: 1 Area: 1035.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 12409.5 Center of mass: (277.0,153.0) Classification: 'Person'
-
-Frame number: 302
-Num objects detected: 2
-Object number: 1 Area: 1059.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 12135.0 Center of mass: (280.0,155.0) Classification: 'Person'
-
-Frame number: 303
-Num objects detected: 2
-Object number: 1 Area: 1071.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 11570.0 Center of mass: (282.0,156.0) Classification: 'Person'
-
-Frame number: 304
-Num objects detected: 2
-Object number: 1 Area: 1069.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 11099.0 Center of mass: (283.0,155.0) Classification: 'Person'
-
-Frame number: 305
-Num objects detected: 2
-Object number: 1 Area: 1057.0 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 10879.5 Center of mass: (285.0,154.0) Classification: 'Person'
-
-Frame number: 306
-Num objects detected: 2
-Object number: 1 Area: 1022.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10652.0 Center of mass: (286.0,153.0) Classification: 'Person'
-
-Frame number: 307
-Num objects detected: 2
-Object number: 1 Area: 1029.5 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10429.0 Center of mass: (286.0,153.0) Classification: 'Person'
-
-Frame number: 308
-Num objects detected: 2
-Object number: 1 Area: 992.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10456.0 Center of mass: (286.0,152.0) Classification: 'Person'
-
-Frame number: 309
-Num objects detected: 2
-Object number: 1 Area: 1049.0 Center of mass: (104.0,187.0) Classification: 'Person'
-Object number: 2 Area: 10663.0 Center of mass: (286.0,154.0) Classification: 'Person'
-
-Frame number: 310
-Num objects detected: 2
-Object number: 1 Area: 1008.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 10370.5 Center of mass: (287.0,152.0) Classification: 'Person'
-
-Frame number: 311
-Num objects detected: 2
-Object number: 1 Area: 1056.5 Center of mass: (103.0,187.0) Classification: 'Person'
-Object number: 2 Area: 9816.0 Center of mass: (288.0,152.0) Classification: 'Person'
-
-Frame number: 312
-Num objects detected: 2
-Object number: 1 Area: 1076.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 9249.5 Center of mass: (290.0,152.0) Classification: 'Person'
-
-Frame number: 313
-Num objects detected: 2
-Object number: 1 Area: 1017.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 8803.0 Center of mass: (293.0,152.0) Classification: 'Person'
-
-Frame number: 314
-Num objects detected: 2
-Object number: 1 Area: 1032.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 7952.5 Center of mass: (295.0,154.0) Classification: 'Person'
-
-Frame number: 315
-Num objects detected: 2
-Object number: 1 Area: 964.0 Center of mass: (105.0,185.0) Classification: 'Person'
-Object number: 2 Area: 7152.0 Center of mass: (298.0,156.0) Classification: 'Person'
-
-Frame number: 316
-Num objects detected: 2
-Object number: 1 Area: 1051.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 6369.5 Center of mass: (300.0,155.0) Classification: 'Person'
-
-Frame number: 317
-Num objects detected: 2
-Object number: 1 Area: 1017.0 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 5793.0 Center of mass: (302.0,153.0) Classification: 'Person'
-
-Frame number: 318
-Num objects detected: 2
-Object number: 1 Area: 1061.0 Center of mass: (103.0,186.0) Classification: 'Person'
-Object number: 2 Area: 5495.5 Center of mass: (303.0,151.0) Classification: 'Person'
-
-Frame number: 319
-Num objects detected: 2
-Object number: 1 Area: 1010.5 Center of mass: (104.0,186.0) Classification: 'Person'
-Object number: 2 Area: 5325.0 Center of mass: (304.0,149.0) Classification: 'Person'
-
-Frame number: 320
-Num objects detected: 1
-Object number: 1 Area: 10270.5 Center of mass: (287.0,152.0) Classification: 'Person'
-
-Frame number: 321
-Num objects detected: 1
-Object number: 1 Area: 10408.0 Center of mass: (286.0,152.0) Classification: 'Person'
-
-Frame number: 322
-Num objects detected: 1
-Object number: 1 Area: 10460.5 Center of mass: (286.0,152.0) Classification: 'Person'
-
-Frame number: 323
-Num objects detected: 1
-Object number: 1 Area: 10073.0 Center of mass: (286.0,149.0) Classification: 'Person'
-
-Frame number: 324
-Num objects detected: 1
-Object number: 1 Area: 9689.5 Center of mass: (286.0,146.0) Classification: 'Person'
-
-Frame number: 325
-Num objects detected: 1
-Object number: 1 Area: 9180.0 Center of mass: (287.0,141.0) Classification: 'Person'
-
-Frame number: 326
-Num objects detected: 1
-Object number: 1 Area: 8862.0 Center of mass: (288.0,138.0) Classification: 'Person'
-
-Frame number: 327
-Num objects detected: 1
-Object number: 1 Area: 9064.5 Center of mass: (288.0,138.0) Classification: 'Person'
-
-Frame number: 328
-Num objects detected: 1
-Object number: 1 Area: 7878.5 Center of mass: (289.0,139.0) Classification: 'Person'
-
-Frame number: 329
-Num objects detected: 1
-Object number: 1 Area: 7657.0 Center of mass: (287.0,137.0) Classification: 'Person'
-
-Frame number: 330
-Num objects detected: 1
-Object number: 1 Area: 7108.0 Center of mass: (282.0,135.0) Classification: 'Person'
-
-Frame number: 331
-Num objects detected: 1
-Object number: 1 Area: 7689.0 Center of mass: (278.0,142.0) Classification: 'Person'
-
-Frame number: 332
-Num objects detected: 1
-Object number: 1 Area: 9879.5 Center of mass: (272.0,146.0) Classification: 'Person'
-
-Frame number: 333
-Num objects detected: 1
-Object number: 1 Area: 10434.0 Center of mass: (270.0,148.0) Classification: 'Person'
-
-Frame number: 334
-Num objects detected: 1
-Object number: 1 Area: 11047.5 Center of mass: (268.0,150.0) Classification: 'Person'
-
-Frame number: 335
-Num objects detected: 2
-Object number: 1 Area: 239.5 Center of mass: (107.0,192.0) Classification: 'Other'
-Object number: 2 Area: 11733.0 Center of mass: (267.0,152.0) Classification: 'Person'
-
-Frame number: 336
-Num objects detected: 2
-Object number: 1 Area: 351.5 Center of mass: (107.0,191.0) Classification: 'Other'
-Object number: 2 Area: 12200.5 Center of mass: (264.0,153.0) Classification: 'Person'
-
-Frame number: 337
-Num objects detected: 2
-Object number: 1 Area: 281.0 Center of mass: (109.0,187.0) Classification: 'Other'
-Object number: 2 Area: 12601.0 Center of mass: (263.0,153.0) Classification: 'Person'
-
-Frame number: 338
-Num objects detected: 2
-Object number: 1 Area: 300.0 Center of mass: (109.0,190.0) Classification: 'Other'
-Object number: 2 Area: 12676.0 Center of mass: (261.0,152.0) Classification: 'Person'
-
-Frame number: 339
-Num objects detected: 2
-Object number: 1 Area: 331.5 Center of mass: (107.0,192.0) Classification: 'Other'
-Object number: 2 Area: 12942.5 Center of mass: (260.0,152.0) Classification: 'Person'
-
-Frame number: 340
-Num objects detected: 2
-Object number: 1 Area: 161.5 Center of mass: (107.0,189.0) Classification: 'Other'
-Object number: 2 Area: 14017.5 Center of mass: (259.0,153.0) Classification: 'Person'
-
-Frame number: 341
-Num objects detected: 2
-Object number: 1 Area: 172.5 Center of mass: (106.0,186.0) Classification: 'Other'
-Object number: 2 Area: 14634.0 Center of mass: (258.0,155.0) Classification: 'Person'
-
-Frame number: 342
-Num objects detected: 1
-Object number: 1 Area: 15140.5 Center of mass: (257.0,156.0) Classification: 'Person'
-
-Frame number: 343
-Num objects detected: 1
-Object number: 1 Area: 15652.5 Center of mass: (255.0,158.0) Classification: 'Person'
-
-Frame number: 344
-Num objects detected: 1
-Object number: 1 Area: 15950.0 Center of mass: (255.0,158.0) Classification: 'Person'
-
-Frame number: 345
-Num objects detected: 1
-Object number: 1 Area: 16037.0 Center of mass: (254.0,158.0) Classification: 'Person'
-
-Frame number: 346
-Num objects detected: 1
-Object number: 1 Area: 16015.0 Center of mass: (254.0,158.0) Classification: 'Person'
-
-Frame number: 347
-Num objects detected: 1
-Object number: 1 Area: 16014.5 Center of mass: (254.0,158.0) Classification: 'Person'
-
-Frame number: 348
-Num objects detected: 1
-Object number: 1 Area: 15789.5 Center of mass: (255.0,158.0) Classification: 'Person'
-
-Frame number: 349
-Num objects detected: 1
-Object number: 1 Area: 15459.0 Center of mass: (256.0,157.0) Classification: 'Person'
-
-Frame number: 350
-Num objects detected: 1
-Object number: 1 Area: 14602.0 Center of mass: (258.0,155.0) Classification: 'Person'
-
-Frame number: 351
-Num objects detected: 1
-Object number: 1 Area: 13046.5 Center of mass: (261.0,150.0) Classification: 'Person'
-
-Frame number: 352
-Num objects detected: 1
-Object number: 1 Area: 12663.5 Center of mass: (262.0,150.0) Classification: 'Person'
-
-Frame number: 353
-Num objects detected: 1
-Object number: 1 Area: 12446.5 Center of mass: (262.0,152.0) Classification: 'Person'
-
-Frame number: 354
-Num objects detected: 1
-Object number: 1 Area: 12652.5 Center of mass: (263.0,152.0) Classification: 'Person'
-
-Frame number: 355
-Num objects detected: 1
-Object number: 1 Area: 12419.5 Center of mass: (264.0,151.0) Classification: 'Person'
-
-Frame number: 356
-Num objects detected: 1
-Object number: 1 Area: 11910.5 Center of mass: (266.0,148.0) Classification: 'Person'
-
-Frame number: 357
-Num objects detected: 1
-Object number: 1 Area: 11557.0 Center of mass: (270.0,146.0) Classification: 'Person'
-
-Frame number: 358
-Num objects detected: 1
-Object number: 1 Area: 10863.0 Center of mass: (273.0,142.0) Classification: 'Person'
-
-Frame number: 359
-Num objects detected: 1
-Object number: 1 Area: 10118.0 Center of mass: (277.0,140.0) Classification: 'Person'
-
-Frame number: 360
-Num objects detected: 1
-Object number: 1 Area: 9803.0 Center of mass: (279.0,137.0) Classification: 'Person'
-
-Frame number: 361
-Num objects detected: 1
-Object number: 1 Area: 9287.0 Center of mass: (281.0,138.0) Classification: 'Person'
-
-Frame number: 362
-Num objects detected: 1
-Object number: 1 Area: 9033.5 Center of mass: (283.0,138.0) Classification: 'Person'
-
-Frame number: 363
-Num objects detected: 1
-Object number: 1 Area: 8660.0 Center of mass: (284.0,140.0) Classification: 'Person'
-
-Frame number: 364
-Num objects detected: 1
-Object number: 1 Area: 8847.5 Center of mass: (285.0,143.0) Classification: 'Person'
-
-Frame number: 365
-Num objects detected: 1
-Object number: 1 Area: 8738.5 Center of mass: (285.0,145.0) Classification: 'Person'
-
-Frame number: 366
-Num objects detected: 1
-Object number: 1 Area: 8465.5 Center of mass: (287.0,145.0) Classification: 'Person'
-
-Frame number: 367
-Num objects detected: 1
-Object number: 1 Area: 8712.5 Center of mass: (288.0,147.0) Classification: 'Person'
-
-Frame number: 368
-Num objects detected: 1
-Object number: 1 Area: 9115.0 Center of mass: (287.0,148.0) Classification: 'Person'
-
-Frame number: 369
-Num objects detected: 1
-Object number: 1 Area: 9343.5 Center of mass: (287.0,149.0) Classification: 'Person'
-
-Frame number: 370
-Num objects detected: 1
-Object number: 1 Area: 9148.5 Center of mass: (286.0,151.0) Classification: 'Person'
-
-Frame number: 371
-Num objects detected: 1
-Object number: 1 Area: 9285.5 Center of mass: (286.0,151.0) Classification: 'Person'
-
-Frame number: 372
-Num objects detected: 1
-Object number: 1 Area: 9445.0 Center of mass: (287.0,150.0) Classification: 'Person'
-
-Frame number: 373
-Num objects detected: 1
-Object number: 1 Area: 9506.0 Center of mass: (287.0,152.0) Classification: 'Person'
-
-Frame number: 374
-Num objects detected: 1
-Object number: 1 Area: 9462.0 Center of mass: (287.0,153.0) Classification: 'Person'
-
-Frame number: 375
-Num objects detected: 1
-Object number: 1 Area: 9345.5 Center of mass: (287.0,152.0) Classification: 'Person'
-
-Frame number: 376
-Num objects detected: 1
-Object number: 1 Area: 9167.0 Center of mass: (286.0,155.0) Classification: 'Person'
-
-Frame number: 377
-Num objects detected: 1
-Object number: 1 Area: 9623.0 Center of mass: (287.0,153.0) Classification: 'Person'
-
-Frame number: 378
-Num objects detected: 1
-Object number: 1 Area: 9790.5 Center of mass: (287.0,153.0) Classification: 'Person'
-
-Frame number: 379
-Num objects detected: 1
-Object number: 1 Area: 9949.0 Center of mass: (287.0,153.0) Classification: 'Person'
-
-Frame number: 380
-Num objects detected: 1
-Object number: 1 Area: 10278.5 Center of mass: (287.0,151.0) Classification: 'Person'
-
-Frame number: 381
-Num objects detected: 1
-Object number: 1 Area: 9981.0 Center of mass: (286.0,148.0) Classification: 'Person'
-
-Frame number: 382
-Num objects detected: 1
-Object number: 1 Area: 9644.5 Center of mass: (287.0,144.0) Classification: 'Person'
-
-Frame number: 383
-Num objects detected: 1
-Object number: 1 Area: 9206.0 Center of mass: (288.0,142.0) Classification: 'Person'
-
-Frame number: 384
-Num objects detected: 1
-Object number: 1 Area: 8961.0 Center of mass: (289.0,139.0) Classification: 'Person'
-
-Frame number: 385
-Num objects detected: 1
-Object number: 1 Area: 9149.0 Center of mass: (288.0,139.0) Classification: 'Person'
-
-Frame number: 386
-Num objects detected: 1
-Object number: 1 Area: 9334.5 Center of mass: (287.0,140.0) Classification: 'Person'
-
-Frame number: 387
-Num objects detected: 1
-Object number: 1 Area: 7214.5 Center of mass: (287.0,133.0) Classification: 'Person'
-
-Frame number: 388
-Num objects detected: 1
-Object number: 1 Area: 7212.0 Center of mass: (284.0,137.0) Classification: 'Person'
-
-Frame number: 389
-Num objects detected: 1
-Object number: 1 Area: 6762.5 Center of mass: (280.0,140.0) Classification: 'Person'
-
-Frame number: 390
-Num objects detected: 2
-Object number: 1 Area: 164.0 Center of mass: (107.0,190.0) Classification: 'Other'
-Object number: 2 Area: 9558.5 Center of mass: (275.0,145.0) Classification: 'Person'
-
-Frame number: 391
-Num objects detected: 1
-Object number: 1 Area: 9789.5 Center of mass: (272.0,148.0) Classification: 'Person'
-
-Frame number: 392
-Num objects detected: 2
-Object number: 1 Area: 151.5 Center of mass: (108.0,190.0) Classification: 'Other'
-Object number: 2 Area: 10208.5 Center of mass: (270.0,149.0) Classification: 'Person'
-
-Frame number: 393
-Num objects detected: 1
-Object number: 1 Area: 10904.0 Center of mass: (269.0,149.0) Classification: 'Person'
-
-Frame number: 394
-Num objects detected: 2
-Object number: 1 Area: 179.0 Center of mass: (107.0,191.0) Classification: 'Other'
-Object number: 2 Area: 11215.5 Center of mass: (267.0,148.0) Classification: 'Person'
-
-Frame number: 395
-Num objects detected: 2
-Object number: 1 Area: 172.0 Center of mass: (109.0,189.0) Classification: 'Other'
-Object number: 2 Area: 11563.5 Center of mass: (267.0,149.0) Classification: 'Person'
-
-Frame number: 396
-Num objects detected: 2
-Object number: 1 Area: 251.5 Center of mass: (107.0,190.0) Classification: 'Other'
-Object number: 2 Area: 11617.0 Center of mass: (266.0,150.0) Classification: 'Person'
-
-Frame number: 397
-Num objects detected: 2
-Object number: 1 Area: 312.5 Center of mass: (108.0,188.0) Classification: 'Other'
-Object number: 2 Area: 11665.0 Center of mass: (267.0,150.0) Classification: 'Person'
-
-Frame number: 398
-Num objects detected: 2
-Object number: 1 Area: 246.5 Center of mass: (106.0,190.0) Classification: 'Other'
-Object number: 2 Area: 11591.5 Center of mass: (267.0,151.0) Classification: 'Person'
-
-Frame number: 399
-Num objects detected: 1
-Object number: 1 Area: 11299.0 Center of mass: (268.0,153.0) Classification: 'Person'
-
-Frame number: 400
-Num objects detected: 1
-Object number: 1 Area: 9251.5 Center of mass: (267.0,143.0) Classification: 'Person'
-
-Frame number: 401
-Num objects detected: 1
-Object number: 1 Area: 11803.5 Center of mass: (266.0,151.0) Classification: 'Person'
-
-Frame number: 402
-Num objects detected: 1
-Object number: 1 Area: 10749.0 Center of mass: (267.0,145.0) Classification: 'Person'
-
-Frame number: 403
-Num objects detected: 1
-Object number: 1 Area: 8917.5 Center of mass: (270.0,143.0) Classification: 'Person'
-
-Frame number: 404
-Num objects detected: 1
-Object number: 1 Area: 9809.5 Center of mass: (269.0,146.0) Classification: 'Person'
-
-Frame number: 405
-Num objects detected: 1
-Object number: 1 Area: 10613.0 Center of mass: (268.0,148.0) Classification: 'Person'
-
-Frame number: 406
-Num objects detected: 1
-Object number: 1 Area: 10308.5 Center of mass: (270.0,146.0) Classification: 'Person'
-
-Frame number: 407
-Num objects detected: 1
-Object number: 1 Area: 9946.5 Center of mass: (272.0,145.0) Classification: 'Person'
-
-Frame number: 408
-Num objects detected: 1
-Object number: 1 Area: 9464.5 Center of mass: (278.0,147.0) Classification: 'Person'
-
-Frame number: 409
-Num objects detected: 2
-Object number: 1 Area: 898.0 Center of mass: (240.0,208.0) Classification: 'Person'
-Object number: 2 Area: 8621.5 Center of mass: (286.0,143.0) Classification: 'Person'
-
-Frame number: 410
-Num objects detected: 2
-Object number: 1 Area: 701.0 Center of mass: (246.0,207.0) Classification: 'Person'
-Object number: 2 Area: 8691.0 Center of mass: (288.0,146.0) Classification: 'Person'
-
-Frame number: 411
-Num objects detected: 1
-Object number: 1 Area: 9917.5 Center of mass: (284.0,151.0) Classification: 'Person'
-
-Frame number: 412
-Num objects detected: 1
-Object number: 1 Area: 9155.5 Center of mass: (283.0,152.0) Classification: 'Person'
-
-Frame number: 413
-Num objects detected: 1
-Object number: 1 Area: 10763.0 Center of mass: (279.0,154.0) Classification: 'Person'
-
-Frame number: 414
-Num objects detected: 1
-Object number: 1 Area: 7780.0 Center of mass: (278.0,152.0) Classification: 'Person'
-
-Frame number: 415
-Num objects detected: 2
-Object number: 1 Area: 467.5 Center of mass: (250.0,145.0) Classification: 'Other'
-Object number: 2 Area: 5934.5 Center of mass: (280.0,144.0) Classification: 'Person'
-
-Frame number: 416
-Num objects detected: 1
-Object number: 1 Area: 7994.5 Center of mass: (275.0,146.0) Classification: 'Person'
-
-Frame number: 417
-Num objects detected: 1
-Object number: 1 Area: 10783.5 Center of mass: (268.0,153.0) Classification: 'Person'
-
-Frame number: 418
-Num objects detected: 1
-Object number: 1 Area: 12745.0 Center of mass: (263.0,154.0) Classification: 'Person'
-
-Frame number: 419
-Num objects detected: 1
-Object number: 1 Area: 13678.0 Center of mass: (257.0,153.0) Classification: 'Person'
-
-Frame number: 420
-Num objects detected: 1
-Object number: 1 Area: 15247.0 Center of mass: (253.0,154.0) Classification: 'Person'
-
-Frame number: 421
-Num objects detected: 1
-Object number: 1 Area: 16973.5 Center of mass: (248.0,155.0) Classification: 'Person'
-
-Frame number: 422
-Num objects detected: 1
-Object number: 1 Area: 19033.0 Center of mass: (241.0,159.0) Classification: 'Person'
-
-Frame number: 423
-Num objects detected: 1
-Object number: 1 Area: 21251.5 Center of mass: (232.0,159.0) Classification: 'Person'
+Object number: 1 Area: 13099.5 Center of mass: (230.0,154.0) Classification: 'Person'
+Object number: 2 Area: 1015.5 Center of mass: (103.0,186.0) Classification: 'Person'
 
